@@ -1,24 +1,3 @@
-# jaeger
+# I miei Jaeger
 
-## Project setup
-```
-yarn install
-```
-
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Potete vedere online i miei disegni all'indirizzo https://jaeger-santuzzi.netlify.com/.
