@@ -45,20 +45,20 @@
     data() {
       return {
         images: [
-          {title: 'Mazzata 2', url: '/imgs/01-Mazzata 2.0.png'},
-          {title: 'Devastation', url: '/imgs/02-Devastation.png'},
-          {title: 'Mazzata', url: '/imgs/03-Mazzata.png'},
-          {title: 'Tempesta', url: '/imgs/04-Tempesta.png'},
-          {title: 'Blade', url: '/imgs/05-Blade.png'},
-          {title: 'Final Blade', url: '/imgs/06-Final Blade.png'},
-          {title: 'Killer Evolution', url: '/imgs/07-Killer Evolution.png'},
-          {title: 'Evolutiuon', url: '/imgs/08-Evolutiuon.png'},
-          {title: 'Evolution H2O', url: '/imgs/09-Evolution H2O.png'},
-          {title: 'Final Evolution', url: '/imgs/10-Final Evolution.png'},
-          {title: 'Hyper Evo', url: '/imgs/11-Hyper Evo.png'},
-          {title: 'Coyote Bravo', url: '/imgs/12-Coyote Bravo.png'},
-          {title: 'Frusta', url: '/imgs/13-Frusta.png'},
-          {title: 'Techno Defence', url: '/imgs/14-Techno Defence.png'}
+          {title: 'Mazzata 2', url: '/imgs/01-Mazzata 2.0.gif'},
+          {title: 'Devastation', url: '/imgs/02-Devastation.gif'},
+          {title: 'Mazzata', url: '/imgs/03-Mazzata.gif'},
+          {title: 'Tempesta', url: '/imgs/04-Tempesta.gif'},
+          {title: 'Blade', url: '/imgs/05-Blade.gif'},
+          {title: 'Final Blade', url: '/imgs/06-Final Blade.gif'},
+          {title: 'Killer Evolution', url: '/imgs/07-Killer Evolution.gif'},
+          {title: 'Evolutiuon', url: '/imgs/08-Evolutiuon.gif'},
+          {title: 'Evolution H2O', url: '/imgs/09-Evolution H2O.gif'},
+          {title: 'Final Evolution', url: '/imgs/10-Final Evolution.gif'},
+          {title: 'Hyper Evo', url: '/imgs/11-Hyper Evo.gif'},
+          {title: 'Coyote Bravo', url: '/imgs/12-Coyote Bravo.gif'},
+          {title: 'Frusta', url: '/imgs/13-Frusta.gif'},
+          {title: 'Techno Defence', url: '/imgs/14-Techno Defence.gif'}
         ],
         index: null,
       };
